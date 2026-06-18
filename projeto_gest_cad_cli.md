@@ -17,7 +17,7 @@ Dados Necessários:
 # Bairro:
 
 
-# Objetivo: Criar "Sistema de Geremciamento de Cadastro"de uma pizzaria. Esse sistemja possibilita:
+# Objetivo: Criar "Sistema de Gerenciamento de Cadastro"de uma pizzaria. Esse sistema possibilita:
 
 - Listar cadastro do clientes:
 - Consultar informações:
