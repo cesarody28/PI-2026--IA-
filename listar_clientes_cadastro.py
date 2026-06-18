@@ -15,14 +15,14 @@ for um_registro in registros:
     dados_do_registro = um_registro.strip().split(",")
 
 # Guardar cada dado em uma variável
-telefone, nome, endereco, complemento_endereco, bairro = dados_do_registro 
+telefone, nome, endereco, complemento, bairro = dados_do_registro 
 
 
 # Exibir os dados do cliente
 print("Telefone:", telefone)
 print("Nome:", nome)
 print("Endereço:", endereco)
-print("Complemento:", complemento_endereco)
+print("Complemento:", complemento)
 print("Bairro:", bairro)
 print("------------------------")
 

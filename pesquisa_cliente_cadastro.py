@@ -20,7 +20,7 @@ for um_registro in registros:
     dados_do_registro = um_registro.strip().split(",")
 
 # Guardar cada dado em uma variável
-    telefone, nome, endereco, complemento_endereco, bairro = dados_do_registro 
+    telefone, nome, endereco, complemento, bairro = dados_do_registro 
 
     
    
@@ -28,7 +28,7 @@ for um_registro in registros:
 total_clientes += 1
 
 # Casa ou condomínio
-if complemento_endereco != "":
+if complemento != "":
         moram_em_condominio += 1
 else:
         moram_em_casa += 1

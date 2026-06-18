@@ -16,7 +16,7 @@ for um_registro in registros:
 
     dados_do_registro = um_registro.strip().split(",")
 
-    telefone, nome, endereco, complemento_endereco, bairro = dados_do_registro
+    telefone, nome, endereco, complemento, bairro = dados_do_registro
 
 
     # Verifica se o bairro já existe no dicionário

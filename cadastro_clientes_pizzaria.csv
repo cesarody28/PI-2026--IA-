@@ -1,151 +1,150 @@
-﻿Telefone,Nome,Endereço,Complemento,Bairro
-(51) 95367-2764,Pedro Carvalho,"Rua Hilário Ribeiro, 157",,Moinhos de Vento
-(51) 93615-3212,Rafael Souza,"Rua Coronel Bordini, 1382",Apto 1538,Auxiliadora
-(51) 92435-7186,João Carvalho,"Rua Jaraguá, 287",,Bela Vista
-(51) 93329-3068,Maria Oliveira,"Rua José de Alencar, 87",,Menino Deus
-(51) 98688-1602,Renata Rodrigues,"Rua Barão do Gravataí, 1250",,Menino Deus
-(51) 91205-7524,Vanessa Gomes,"Rua José de Alencar, 2101",,Menino Deus
-(51) 99529-7873,Vanessa Dias,"Rua Auxiliadora, 1535",Apto 1645,Auxiliadora
-(51) 95290-3787,Pedro Dias,"Rua Eng. Teixeira Soares, 1372",,Bela Vista
-(51) 96506-1267,Daniel Ribeiro,"Rua José de Alencar, 775",Apto 1387,Menino Deus
-(51) 97647-9716,Camila Costa,"Rua Carazinho, 2053",Apto 223,Petrópolis
-(51) 93909-3519,Patrícia Dias,"Rua Eça de Queiroz, 2198",,Petrópolis
-(51) 98476-4165,João Santos,"Rua José de Alencar, 87",,Menino Deus
-(51) 97887-1005,Lucas Carvalho,"Av. Protásio Alves, 445",Apto 1146,Petrópolis
-(51) 98097-1140,Pedro Oliveira,"Av. Protásio Alves, 2195",,Petrópolis
-(51) 96283-5301,Bruno Silva,"Rua Auxiliadora, 1936",,Auxiliadora
-(51) 91389-3684,Aline Martins,"Rua Coronel Bordini, 1717",,Auxiliadora
-(51) 91936-9498,Patrícia Oliveira,"Rua Carlos Trein Filho, 1587",Apto 400,Bela Vista
-(51) 99764-6533,Camila Santos,"Rua Eça de Queiroz, 2119",,Petrópolis
-(51) 92016-3228,Bruno Carvalho,"Rua Eng. Teixeira Soares, 1863",Apto 816,Bela Vista
-(51) 98028-1462,Daniel Alves,"Rua Barão do Gravataí, 650",Apto 1159,Menino Deus
-(51) 99194-2716,Carlos Gomes,"Rua Auxiliadora, 2235",Apto 561,Auxiliadora
-(51) 99295-4985,Pedro Rodrigues,"Rua Coronel Bordini, 833",Apto 642,Auxiliadora
-(51) 94229-9276,Gustavo Oliveira,"Rua José de Alencar, 818",Apto 136,Menino Deus
-(51) 92394-6194,Felipe Costa,"Rua Carlos Trein Filho, 344",,Bela Vista
-(51) 98929-9065,Larissa Santos,"Rua 24 de Outubro, 1632",Apto 627,Auxiliadora
-(51) 94672-9212,Rafael Ribeiro,"Rua Coronel Bordini, 517",Apto 113,Auxiliadora
-(51) 93004-1859,Renata Gomes,"Rua Auxiliadora, 1478",Apto 842,Auxiliadora
-(51) 98357-6620,Camila Ferreira,"Av. Getúlio Vargas, 789",Apto 471,Menino Deus
-(51) 99199-5349,Aline Ribeiro,"Rua José de Alencar, 717",Apto 871,Menino Deus
-(51) 95348-9238,Fernanda Pereira,"Rua Carazinho, 2480",,Petrópolis
-(51) 95890-2760,Felipe Ribeiro,"Rua José de Alencar, 1907",Apto 1547,Menino Deus
-(51) 98196-6636,Daniel Rodrigues,"Rua Carazinho, 1018",Apto 1033,Petrópolis
-(51) 91799-3985,Lucas Gomes,"Rua Auxiliadora, 506",,Auxiliadora
-(51) 99767-1700,Carlos Dias,"Rua Barão do Gravataí, 1927",Apto 390,Menino Deus
-(51) 98592-9259,Patrícia Souza,"Rua Eça de Queiroz, 2464",Apto 692,Petrópolis
-(51) 94728-2026,Rafael Ribeiro,"Rua 24 de Outubro, 1038",,Auxiliadora
-(51) 91212-9139,Aline Souza,"Av. Getúlio Vargas, 675",,Menino Deus
-(51) 95960-9189,Juliana Ferreira,"Av. Protásio Alves, 1915",,Petrópolis
-(51) 99928-5576,Ana Rocha,"Rua 24 de Outubro, 800",Apto 239,Auxiliadora
-(51) 91985-8088,Daniel Pereira,"Av. Getúlio Vargas, 1786",Apto 416,Menino Deus
-(51) 94953-1615,Marcos Ferreira,"Rua José de Alencar, 1002",Apto 251,Menino Deus
-(51) 96274-9960,João Carvalho,"Rua José de Alencar, 123",,Menino Deus
-(51) 94046-5983,Aline Alves,"Rua Eng. Teixeira Soares, 462",,Bela Vista
-(51) 96923-3504,Gustavo Silva,"Rua Carazinho, 1909",,Petrópolis
-(51) 94095-7391,Aline Ribeiro,"Rua Eng. Teixeira Soares, 316",Apto 1118,Bela Vista
-(51) 92750-3064,Carlos Dias,"Rua Hilário Ribeiro, 500",Apto 823,Moinhos de Vento
-(51) 99533-6783,João Rocha,"Rua Auxiliadora, 1183",,Auxiliadora
-(51) 96322-2356,Ana Pereira,"Rua José de Alencar, 844",Apto 469,Menino Deus
-(51) 91087-3663,Renata Santos,"Rua José de Alencar, 354",,Menino Deus
-(51) 98048-4290,Patrícia Rocha,"Rua Padre Chagas, 1658",,Moinhos de Vento
-(51) 93200-1674,Daniel Oliveira,"Rua Jaraguá, 1471",Bela Vista
-(51) 96594-3343,Patrícia Carvalho,"Rua Jaraguá, 367",Apto 698,Bela Vista
-(51) 94750-1997,Bruno Martins,"Av. Protásio Alves, 238",Apto 326,Petrópolis
-(51) 91013-9898,Patrícia Santos,"Rua Carlos Trein Filho, 1079",Apto 1238,Bela Vista
-(51) 91544-5740,Carlos Carvalho,"Rua Eça de Queiroz, 1434",,Petrópolis
-(51) 95819-2308,Gustavo Silva,"Rua Hilário Ribeiro, 1551",Apto 1350,Moinhos de Vento
-(51) 97538-2156,Ana Ferreira,"Rua Eça de Queiroz, 786",,Petrópolis
-(51) 99923-3676,Renata Alves,"Rua Eça de Queiroz, 1587",,Petrópolis
-(51) 96988-4014,Juliana Ferreira,"Rua Dinarte Ribeiro, 413",,Moinhos de Vento
-(51) 92205-6916,Lucas Pereira,"Rua 24 de Outubro, 233",Apto 840,Auxiliadora
-(51) 95259-9510,Aline Oliveira,"Rua Carlos Trein Filho, 2269",Apto 1465,Bela Vista
-(51) 96053-8200,Rafael Alves,"Rua 24 de Outubro, 963",,Auxiliadora
-(51) 97361-6878,Ana Rocha,"Rua Dinarte Ribeiro, 739",Apto 371,Moinhos de Vento
-(51) 94931-1070,Aline Ferreira,"Rua José de Alencar, 1709",,Menino Deus
-(51) 97902-3754,Larissa Rodrigues,"Rua Padre Chagas, 1598",Apto 233,Moinhos de Vento
-(51) 95360-1877,Felipe Ribeiro,"Rua Padre Chagas, 2227",Apto 736,Moinhos de Vento
-(51) 91371-3380,Larissa Gomes,"Av. Protásio Alves, 1263",,Petrópolis
-(51) 91736-7925,Marcos Dias,"Rua Carlos Trein Filho, 269",Apto 1740,Bela Vista
-(51) 92027-8356,Maria Costa,"Rua Jaraguá, 2369",Apto 921,Bela Vista
-(51) 92222-4542,Aline Martins,"Rua Auxiliadora, 368",,Auxiliadora
-(51) 91583-3558,João Ferreira,"Rua Coronel Bordini, 2152",,Auxiliadora
-(51) 96468-3989,Renata Ribeiro,"Rua Hilário Ribeiro, 1658",Apto 1448,Moinhos de Vento
-(51) 93494-3227,Maria Ferreira,"Rua Padre Chagas, 2391",,Moinhos de Vento
-(51) 97733-4015,Lucas Alves,"Rua Coronel Bordini, 2186",Apto 1454,Auxiliadora
-(51) 99515-2656,João Santos,"Rua 24 de Outubro, 1860",Apto 605,Auxiliadora
-(51) 95853-8625,João Martins,"Rua Coronel Bordini, 1530",Apto 683,Auxiliadora
-(51) 94255-3771,Felipe Gomes,"Rua Auxiliadora, 163",,Auxiliadora
-(51) 97903-3903,Renata Martins,"Rua 24 de Outubro, 429",Apto 1366,Auxiliadora
-(51) 93224-9298,Felipe Ribeiro,"Rua Padre Chagas, 408",Apto 1100,Moinhos de Vento
-(51) 96492-6165,Gustavo Dias,"Rua 24 de Outubro, 2477",Apto 953,Auxiliadora
-(51) 94854-2673,Renata Lima,"Rua Eça de Queiroz, 217",Apto 1557,Petrópolis
-(51) 93411-3740,Maria Santos,"Rua Carlos Trein Filho, 1636",Apto 467,Bela Vista
-(51) 98961-9194,Gustavo Lima,"Rua 24 de Outubro, 22",Apto 667,Auxiliadora
-(51) 94683-2095,Gustavo Rocha,"Av. Protásio Alves, 1749",Apto 1068,Petrópolis
-(51) 97822-2445,Maria Carvalho,"Av. Getúlio Vargas, 1341",,Menino Deus
-(51) 96982-6248,Maria Martins,"Rua Padre Chagas, 977",Apto 1223,Moinhos de Vento
-(51) 94826-1535,Felipe Gomes,"Rua Coronel Bordini, 757",,Auxiliadora
-(51) 91233-6704,Renata Carvalho,"Rua José de Alencar, 513",,Menino Deus
-(51) 96668-4372,Fernanda Oliveira,"Av. Protásio Alves, 193",,Petrópolis
-(51) 99444-7888,João Dias,"Rua Eng. Teixeira Soares, 1638",Apto 232,Bela Vista
-(51) 96391-7794,Camila Costa,"Rua Jaraguá, 2001",,Bela Vista
-(51) 92679-4210,Gustavo Ribeiro,"Rua Hilário Ribeiro, 1054",,Moinhos de Vento
-(51) 92350-2071,Juliana Ferreira,"Rua Hilário Ribeiro, 1730",Apto 1441,Moinhos de Vento
-(51) 91661-7793,Aline Rocha,"Rua Barão do Gravataí, 212",,Menino Deus
-(51) 96444-7025,Bruno Ribeiro,"Av. Protásio Alves, 1431",,Petrópolis
-(51) 98280-7419,Ana Silva,"Rua 24 de Outubro, 2049",,Auxiliadora
-(51) 93485-6239,Rafael Alves,"Rua Carlos Trein Filho, 2478",Apto 564,Bela Vista
-(51) 93551-4407,Vanessa Dias,"Rua 24 de Outubro, 1353",,Auxiliadora
-(51) 93665-4225,Patrícia Alves,"Rua Barão do Gravataí, 1899",Apto 778,Menino Deus
-(51) 95418-8149,Daniel Rocha,"Rua Barão do Gravataí, 1202",,Menino Deus
-(51) 97271-9689,Ana Gomes,"Av. Getúlio Vargas, 530",,Menino Deus
-(51) 95468-4851,Aline Rocha,"Rua Padre Chagas, 1191",,Moinhos de Vento
-(51) 97317-9973,Aline Oliveira,"Rua 24 de Outubro, 259",,Auxiliadora
-(51) 93289-5985,Camila Santos,"Rua Jaraguá, 1704",,Bela Vista
-(51) 94214-5861,Vanessa Costa,"Av. Getúlio Vargas, 784",Apto 201,Menino Deus
-(51) 91421-3963,Vanessa Rocha,"Rua Carazinho, 650",Apto 1376,Petrópolis
-(51) 94987-1676,Maria Pereira,"Rua Carlos Trein Filho, 1424",,Bela Vista
-(51) 92548-9588,Aline Lima,"Rua Carlos Trein Filho, 208",Apto 586,Bela Vista
-(51) 96027-3798,Carlos Costa,"Rua Hilário Ribeiro, 1846",Apto 1292,Moinhos de Vento
-(51) 98987-6094,Bruno Silva,"Av. Protásio Alves, 1775",,Petrópolis
-(51) 94152-4749,Felipe Santos,"Rua 24 de Outubro, 1227",Apto 1720,Auxiliadora
-(51) 93602-9674,Carlos Ferreira,"Rua Barão do Gravataí, 691",,Menino Deus
-(51) 91267-9173,Fernanda Lima,"Rua Padre Chagas, 1660",,Moinhos de Vento
-(51) 95395-5120,Aline Oliveira,"Rua Eng. Teixeira Soares, 2301",,Bela Vista
-(51) 94115-1145,Vanessa Ferreira,"Rua Jaraguá, 371",,Bela Vista
-(51) 98617-6295,Pedro Lima,"Rua Eça de Queiroz, 2068",,Petrópolis
-(51) 91399-3317,Ana Rocha,"Rua Coronel Bordini, 1086",,Auxiliadora
-(51) 92906-9111,Daniel Alves,"Rua Barão do Gravataí, 1966",Apto 864,Menino Deus
-(51) 95381-9635,Camila Rodrigues,"Rua Padre Chagas, 378",,Moinhos de Vento
-(51) 97347-3467,Daniel Rocha,"Rua Eça de Queiroz, 731",,Petrópolis
-(51) 99985-4995,Daniel Santos,"Rua Carazinho, 1755",,Petrópolis
-(51) 97479-9758,Felipe Martins,"Rua Carlos Trein Filho, 1773",Apto 112,Bela Vista
-(51) 93535-6634,Patrícia Costa,"Rua Carlos Trein Filho, 1822",Apto 1353,Bela Vista
-(51) 96517-8440,João Rocha,"Av. Protásio Alves, 222",,Petrópolis
-(51) 99053-3986,Lucas Lima,"Rua Carazinho, 653",,Petrópolis
-(51) 99963-8772,Lucas Ribeiro,"Rua Jaraguá, 231",,Bela Vista
-(51) 92229-4804,Rafael Santos,"Av. Getúlio Vargas, 1795",Apto 719,Menino Deus
-(51) 95550-8492,Juliana Carvalho,"Rua Hilário Ribeiro, 2227",Apto 1369,Moinhos de Vento
-(51) 98607-8012,Patrícia Santos,"Rua Padre Chagas, 939",,Moinhos de Vento
-(51) 93150-4162,Vanessa Martins,"Rua José de Alencar, 910",,Menino Deus
-(51) 99806-9135,Gustavo Dias,"Rua Padre Chagas, 1193",Apto 493,Moinhos de Vento
-(51) 94153-1571,Marcos Ferreira,"Rua Eça de Queiroz, 2117",Apto 1383,Petrópolis
-(51) 93244-9828,Renata Alves,"Rua Eça de Queiroz, 1602",,Petrópolis
-(51) 94811-6976,Pedro Martins,"Rua Jaraguá, 436",Apto 216,Bela Vista
-(51) 97401-6555,Vanessa Souza,"Rua Hilário Ribeiro, 436",,Moinhos de Vento
-(51) 98254-6083,Aline Costa,"Rua Carlos Trein Filho, 831",Apto 677,Bela Vista
-(51) 97047-9345,Lucas Dias,"Rua Barão do Gravataí, 2394",,Menino Deus
-(51) 93177-3363,Gustavo Oliveira,"Av. Getúlio Vargas, 1782",Apto 1466,Menino Deus
-(51) 94427-6382,Renata Ferreira,"Rua Eça de Queiroz, 104",,Petrópolis
-(51) 95294-5055,Vanessa Santos,"Rua Jaraguá, 1784",,Bela Vista
-(51) 94119-1089,Bruno Ribeiro,"Rua Auxiliadora, 262",Apto 1397,Auxiliadora
-(51) 93621-5044,Vanessa Costa,"Rua Auxiliadora, 221",Apto 800,Auxiliadora
-(51) 92056-9807,Bruno Ribeiro,"Rua Carazinho, 1274",Apto 879,Petrópolis
-(51) 96362-4693,Aline Lima,"Rua Eng. Teixeira Soares, 1466",Apto 1296,Bela Vista
-(51) 98166-6597,Maria Lima,"Rua Auxiliadora, 1877",Apto 1566,Auxiliadora
-(51) 91934-7576,Renata Silva,"Rua Padre Chagas, 257",,Moinhos de Vento
-(51) 95186-4965,Rafael Ferreira,"Rua Padre Chagas, 778",Apto 1006,Moinhos de Vento
-(51) 98815-6399,Pedro Ferreira,"Rua Padre Chagas, 2264",,Moinhos de Vento
-(51) 94897-2883,Renata Dias,"Rua Eng. Teixeira Soares, 1732",,Bela Vista
-(51) 93337-8390,Camila Oliveira,"Rua Dinarte Ribeiro, 2394",Apto 1782,Moinhos de Vento
+﻿(51) 95367-2764,Pedro Carvalho,"Rua Hilário Ribeiro - 157", ,Moinhos de Vento
+(51) 93615-3212,Rafael Souza,"Rua Coronel Bordini - 1382",Apto 1538,Auxiliadora
+(51) 92435-7186,João Carvalho,"Rua Jaraguá - 287", ,Bela Vista
+(51) 93329-3068,Maria Oliveira,"Rua José de Alencar - 87", ,Menino Deus
+(51) 98688-1602,Renata Rodrigues,"Rua Barão do Gravataí - 1250", ,Menino Deus
+(51) 91205-7524,Vanessa Gomes,"Rua José de Alencar - 2101", ,Menino Deus
+(51) 99529-7873,Vanessa Dias,"Rua Auxiliadora - 1535",Apto 1645,Auxiliadora
+(51) 95290-3787,Pedro Dias,"Rua Eng. Teixeira Soares - 1372", , Bela Vista
+(51) 96506-1267,Daniel Ribeiro,"Rua José de Alencar - 775",Apto 1387,Menino Deus
+(51) 97647-9716,Camila Costa,"Rua Carazinho - 2053",Apto 223,Petrópolis
+(51) 93909-3519,Patrícia Dias,"Rua Eça de Queiroz - 2198", ,Petrópolis
+(51) 98476-4165,João Santos,"Rua José de Alencar - 87", , Menino Deus
+(51) 97887-1005,Lucas Carvalho,"Av. Protásio Alves - 445",Apto 1146,Petrópolis
+(51) 98097-1140,Pedro Oliveira,"Av. Protásio Alves - 2195", , Petrópolis
+(51) 96283-5301,Bruno Silva,"Rua Auxiliadora - 1936", ,Auxiliadora
+(51) 91389-3684,Aline Martins,"Rua Coronel Bordini - 1717", ,Auxiliadora
+(51) 91936-9498,Patrícia Oliveira,"Rua Carlos Trein Filho - 1587",Apto 400,Bela Vista
+(51) 99764-6533,Camila Santos,"Rua Eça de Queiroz - 2119", ,Petrópolis
+(51) 92016-3228,Bruno Carvalho,"Rua Eng. Teixeira Soares - 1863",Apto 816,Bela Vista
+(51) 98028-1462,Daniel Alves,"Rua Barão do Gravataí - 650",Apto 1159,Menino Deus
+(51) 99194-2716,Carlos Gomes,"Rua Auxiliadora - 2235",Apto 561,Auxiliadora
+(51) 99295-4985,Pedro Rodrigues,"Rua Coronel Bordini - 833",Apto 642,Auxiliadora
+(51) 94229-9276,Gustavo Oliveira,"Rua José de Alencar - 818",Apto 136,Menino Deus
+(51) 92394-6194,Felipe Costa,"Rua Carlos Trein Filho - 344", ,Bela Vista
+(51) 98929-9065,Larissa Santos,"Rua 24 de Outubro - 1632",Apto 627,Auxiliadora
+(51) 94672-9212,Rafael Ribeiro,"Rua Coronel Bordini - 517",Apto 113,Auxiliadora
+(51) 93004-1859,Renata Gomes,"Rua Auxiliadora - 1478",Apto 842,Auxiliadora
+(51) 98357-6620,Camila Ferreira,"Av. Getúlio Vargas - 789",Apto 471,Menino Deus
+(51) 99199-5349,Aline Ribeiro,"Rua José de Alencar - 717",Apto 871,Menino Deus
+(51) 95348-9238,Fernanda Pereira,"Rua Carazinho - 2480", ,Petrópolis
+(51) 95890-2760,Felipe Ribeiro,"Rua José de Alencar - 1907",Apto 1547,Menino Deus
+(51) 98196-6636,Daniel Rodrigues,"Rua Carazinho - 1018",Apto 1033,Petrópolis
+(51) 91799-3985,Lucas Gomes,"Rua Auxiliadora - 506", ,Auxiliadora
+(51) 99767-1700,Carlos Dias,"Rua Barão do Gravataí - 1927",Apto 390,Menino Deus
+(51) 98592-9259,Patrícia Souza,"Rua Eça de Queiroz - 2464",Apto 692,Petrópolis
+(51) 94728-2026,Rafael Ribeiro,"Rua 24 de Outubro - 1038", ,Auxiliadora
+(51) 91212-9139,Aline Souza,"Av. Getúlio Vargas - 675", ,Menino Deus
+(51) 95960-9189,Juliana Ferreira,"Av. Protásio Alves - 1915", ,Petrópolis
+(51) 99928-5576,Ana Rocha,"Rua 24 de Outubro - 800",Apto 239,Auxiliadora
+(51) 91985-8088,Daniel Pereira,"Av. Getúlio Vargas - 1786",Apto 416,Menino Deus
+(51) 94953-1615,Marcos Ferreira,"Rua José de Alencar - 1002",Apto 251,Menino Deus
+(51) 96274-9960,João Carvalho,"Rua José de Alencar - 123", ,Menino Deus
+(51) 94046-5983,Aline Alves,"Rua Eng. Teixeira Soares - 462", ,Bela Vista
+(51) 96923-3504,Gustavo Silva,"Rua Carazinho - 1909", ,Petrópolis
+(51) 94095-7391,Aline Ribeiro,"Rua Eng. Teixeira Soares - 316",Apto 1118,Bela Vista
+(51) 92750-3064,Carlos Dias,"Rua Hilário Ribeiro - 500",Apto 823,Moinhos de Vento
+(51) 99533-6783,João Rocha,"Rua Auxiliadora - 1183", ,Auxiliadora
+(51) 96322-2356,Ana Pereira,"Rua José de Alencar - 844",Apto 469,Menino Deus
+(51) 91087-3663,Renata Santos,"Rua José de Alencar - 354", ,Menino Deus
+(51) 98048-4290,Patrícia Rocha,"Rua Padre Chagas - 1658", ,Moinhos de Vento
+(51) 93200-1674,Daniel Oliveira,"Rua Jaraguá - 1471",Bela Vista
+(51) 96594-3343,Patrícia Carvalho,"Rua Jaraguá - 367",Apto 698,Bela Vista
+(51) 94750-1997,Bruno Martins,"Av. Protásio Alves - 238",Apto 326,Petrópolis
+(51) 91013-9898,Patrícia Santos,"Rua Carlos Trein Filho - 1079",Apto 1238,Bela Vista
+(51) 91544-5740,Carlos Carvalho,"Rua Eça de Queiroz - 1434", ,Petrópolis
+(51) 95819-2308,Gustavo Silva,"Rua Hilário Ribeiro - 1551",Apto 1350,Moinhos de Vento
+(51) 97538-2156,Ana Ferreira,"Rua Eça de Queiroz - 786", ,Petrópolis
+(51) 99923-3676,Renata Alves,"Rua Eça de Queiroz - 1587", ,Petrópolis
+(51) 96988-4014,Juliana Ferreira,"Rua Dinarte Ribeiro - 413", ,Moinhos de Vento
+(51) 92205-6916,Lucas Pereira,"Rua 24 de Outubro - 233",Apto 840,Auxiliadora
+(51) 95259-9510,Aline Oliveira,"Rua Carlos Trein Filho - 2269",Apto 1465,Bela Vista
+(51) 96053-8200,Rafael Alves,"Rua 24 de Outubro - 963", ,Auxiliadora
+(51) 97361-6878,Ana Rocha,"Rua Dinarte Ribeiro - 739",Apto 371,Moinhos de Vento
+(51) 94931-1070,Aline Ferreira,"Rua José de Alencar - 1709", ,Menino Deus
+(51) 97902-3754,Larissa Rodrigues,"Rua Padre Chagas - 1598",Apto 233,Moinhos de Vento
+(51) 95360-1877,Felipe Ribeiro,"Rua Padre Chagas - 2227",Apto 736,Moinhos de Vento
+(51) 91371-3380,Larissa Gomes,"Av. Protásio Alves - 1263", ,Petrópolis
+(51) 91736-7925,Marcos Dias,"Rua Carlos Trein Filho - 269",Apto 1740,Bela Vista
+(51) 92027-8356,Maria Costa,"Rua Jaraguá - 2369",Apto 921,Bela Vista
+(51) 92222-4542,Aline Martins,"Rua Auxiliadora - 368", ,Auxiliadora
+(51) 91583-3558,João Ferreira,"Rua Coronel Bordini - 2152", ,Auxiliadora
+(51) 96468-3989,Renata Ribeiro,"Rua Hilário Ribeiro - 1658",Apto 1448,Moinhos de Vento
+(51) 93494-3227,Maria Ferreira,"Rua Padre Chagas - 2391", ,Moinhos de Vento
+(51) 97733-4015,Lucas Alves,"Rua Coronel Bordini - 2186",Apto 1454,Auxiliadora
+(51) 99515-2656,João Santos,"Rua 24 de Outubro - 1860",Apto 605,Auxiliadora
+(51) 95853-8625,João Martins,"Rua Coronel Bordini - 1530",Apto 683,Auxiliadora
+(51) 94255-3771,Felipe Gomes,"Rua Auxiliadora - 163", ,Auxiliadora
+(51) 97903-3903,Renata Martins,"Rua 24 de Outubro - 429",Apto 1366,Auxiliadora
+(51) 93224-9298,Felipe Ribeiro,"Rua Padre Chagas - 408",Apto 1100,Moinhos de Vento
+(51) 96492-6165,Gustavo Dias,"Rua 24 de Outubro - 2477",Apto 953,Auxiliadora
+(51) 94854-2673,Renata Lima,"Rua Eça de Queiroz - 217",Apto 1557,Petrópolis
+(51) 93411-3740,Maria Santos,"Rua Carlos Trein Filho - 1636",Apto 467,Bela Vista
+(51) 98961-9194,Gustavo Lima,"Rua 24 de Outubro - 22",Apto 667,Auxiliadora
+(51) 94683-2095,Gustavo Rocha,"Av. Protásio Alves - 1749",Apto 1068,Petrópolis
+(51) 97822-2445,Maria Carvalho,"Av. Getúlio Vargas - 1341", ,Menino Deus
+(51) 96982-6248,Maria Martins,"Rua Padre Chagas - 977",Apto 1223,Moinhos de Vento
+(51) 94826-1535,Felipe Gomes,"Rua Coronel Bordini - 757", ,Auxiliadora
+(51) 91233-6704,Renata Carvalho,"Rua José de Alencar - 513", ,Menino Deus
+(51) 96668-4372,Fernanda Oliveira,"Av. Protásio Alves - 193", ,Petrópolis
+(51) 99444-7888,João Dias,"Rua Eng. Teixeira Soares - 1638",Apto 232,Bela Vista
+(51) 96391-7794,Camila Costa,"Rua Jaraguá - 2001", ,Bela Vista
+(51) 92679-4210,Gustavo Ribeiro,"Rua Hilário Ribeiro - 1054", ,Moinhos de Vento
+(51) 92350-2071,Juliana Ferreira,"Rua Hilário Ribeiro - 1730",Apto 1441,Moinhos de Vento
+(51) 91661-7793,Aline Rocha,"Rua Barão do Gravataí - 212", ,Menino Deus
+(51) 96444-7025,Bruno Ribeiro,"Av. Protásio Alves - 1431", ,Petrópolis
+(51) 98280-7419,Ana Silva,"Rua 24 de Outubro - 2049", ,Auxiliadora
+(51) 93485-6239,Rafael Alves,"Rua Carlos Trein Filho - 2478",Apto 564,Bela Vista
+(51) 93551-4407,Vanessa Dias,"Rua 24 de Outubro - 1353", ,Auxiliadora
+(51) 93665-4225,Patrícia Alves,"Rua Barão do Gravataí - 1899",Apto 778,Menino Deus
+(51) 95418-8149,Daniel Rocha,"Rua Barão do Gravataí - 1202", ,Menino Deus
+(51) 97271-9689,Ana Gomes,"Av. Getúlio Vargas - 530", ,Menino Deus
+(51) 95468-4851,Aline Rocha,"Rua Padre Chagas - 1191", ,Moinhos de Vento
+(51) 97317-9973,Aline Oliveira,"Rua 24 de Outubro - 259", ,Auxiliadora
+(51) 93289-5985,Camila Santos,"Rua Jaraguá - 1704", ,Bela Vista
+(51) 94214-5861,Vanessa Costa,"Av. Getúlio Vargas - 784",Apto 201,Menino Deus
+(51) 91421-3963,Vanessa Rocha,"Rua Carazinho - 650",Apto 1376,Petrópolis
+(51) 94987-1676,Maria Pereira,"Rua Carlos Trein Filho - 1424", ,Bela Vista
+(51) 92548-9588,Aline Lima,"Rua Carlos Trein Filho - 208",Apto 586,Bela Vista
+(51) 96027-3798,Carlos Costa,"Rua Hilário Ribeiro - 1846",Apto 1292,Moinhos de Vento
+(51) 98987-6094,Bruno Silva,"Av. Protásio Alves - 1775", ,Petrópolis
+(51) 94152-4749,Felipe Santos,"Rua 24 de Outubro - 1227",Apto 1720,Auxiliadora
+(51) 93602-9674,Carlos Ferreira,"Rua Barão do Gravataí - 691", ,Menino Deus
+(51) 91267-9173,Fernanda Lima,"Rua Padre Chagas - 1660", ,Moinhos de Vento
+(51) 95395-5120,Aline Oliveira,"Rua Eng. Teixeira Soares - 2301", ,Bela Vista
+(51) 94115-1145,Vanessa Ferreira,"Rua Jaraguá - 371", ,Bela Vista
+(51) 98617-6295,Pedro Lima,"Rua Eça de Queiroz - 2068", ,Petrópolis
+(51) 91399-3317,Ana Rocha,"Rua Coronel Bordini - 1086", ,Auxiliadora
+(51) 92906-9111,Daniel Alves,"Rua Barão do Gravataí - 1966",Apto 864,Menino Deus
+(51) 95381-9635,Camila Rodrigues,"Rua Padre Chagas - 378", ,Moinhos de Vento
+(51) 97347-3467,Daniel Rocha,"Rua Eça de Queiroz - 731", ,Petrópolis
+(51) 99985-4995,Daniel Santos,"Rua Carazinho - 1755", ,Petrópolis
+(51) 97479-9758,Felipe Martins,"Rua Carlos Trein Filho - 1773",Apto 112,Bela Vista
+(51) 93535-6634,Patrícia Costa,"Rua Carlos Trein Filho - 1822",Apto 1353,Bela Vista
+(51) 96517-8440,João Rocha,"Av. Protásio Alves - 222", ,Petrópolis
+(51) 99053-3986,Lucas Lima,"Rua Carazinho - 653", ,Petrópolis
+(51) 99963-8772,Lucas Ribeiro,"Rua Jaraguá - 231", ,Bela Vista
+(51) 92229-4804,Rafael Santos,"Av. Getúlio Vargas - 1795",Apto 719,Menino Deus
+(51) 95550-8492,Juliana Carvalho,"Rua Hilário Ribeiro - 2227",Apto 1369,Moinhos de Vento
+(51) 98607-8012,Patrícia Santos,"Rua Padre Chagas - 939", ,Moinhos de Vento
+(51) 93150-4162,Vanessa Martins,"Rua José de Alencar - 910", ,Menino Deus
+(51) 99806-9135,Gustavo Dias,"Rua Padre Chagas - 1193",Apto 493,Moinhos de Vento
+(51) 94153-1571,Marcos Ferreira,"Rua Eça de Queiroz - 2117",Apto 1383,Petrópolis
+(51) 93244-9828,Renata Alves,"Rua Eça de Queiroz - 1602", ,Petrópolis
+(51) 94811-6976,Pedro Martins,"Rua Jaraguá - 436",Apto 216,Bela Vista
+(51) 97401-6555,Vanessa Souza,"Rua Hilário Ribeiro - 436", ,Moinhos de Vento
+(51) 98254-6083,Aline Costa,"Rua Carlos Trein Filho - 831",Apto 677,Bela Vista
+(51) 97047-9345,Lucas Dias,"Rua Barão do Gravataí - 2394", ,Menino Deus
+(51) 93177-3363,Gustavo Oliveira,"Av. Getúlio Vargas - 1782",Apto 1466,Menino Deus
+(51) 94427-6382,Renata Ferreira,"Rua Eça de Queiroz - 104", ,Petrópolis
+(51) 95294-5055,Vanessa Santos,"Rua Jaraguá - 1784", ,Bela Vista
+(51) 94119-1089,Bruno Ribeiro,"Rua Auxiliadora - 262",Apto 1397,Auxiliadora
+(51) 93621-5044,Vanessa Costa,"Rua Auxiliadora - 221",Apto 800,Auxiliadora
+(51) 92056-9807,Bruno Ribeiro,"Rua Carazinho - 1274",Apto 879,Petrópolis
+(51) 96362-4693,Aline Lima,"Rua Eng. Teixeira Soares - 1466",Apto 1296,Bela Vista
+(51) 98166-6597,Maria Lima,"Rua Auxiliadora - 1877",Apto 1566,Auxiliadora
+(51) 91934-7576,Renata Silva,"Rua Padre Chagas - 257", ,Moinhos de Vento
+(51) 95186-4965,Rafael Ferreira,"Rua Padre Chagas - 778",Apto 1006,Moinhos de Vento
+(51) 98815-6399,Pedro Ferreira,"Rua Padre Chagas - 2264", ,Moinhos de Vento
+(51) 94897-2883,Renata Dias,"Rua Eng. Teixeira Soares - 1732", ,Bela Vista
+(51) 93337-8390,Camila Oliveira,"Rua Dinarte Ribeiro - 2394",Apto 1782,Moinhos de Vento
