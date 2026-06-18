@@ -1,17 +1,18 @@
-﻿(51) 95367-2764,Pedro Carvalho,"Rua Hilário Ribeiro - 157", ,Moinhos de Vento
+﻿telefone, nome, endereco, complemento, bairro
+(51) 95367-2764,Pedro Carvalho,"Rua Hilário Ribeiro - 157", ,Moinhos de Vento
 (51) 93615-3212,Rafael Souza,"Rua Coronel Bordini - 1382",Apto 1538,Auxiliadora
 (51) 92435-7186,João Carvalho,"Rua Jaraguá - 287", ,Bela Vista
 (51) 93329-3068,Maria Oliveira,"Rua José de Alencar - 87", ,Menino Deus
 (51) 98688-1602,Renata Rodrigues,"Rua Barão do Gravataí - 1250", ,Menino Deus
 (51) 91205-7524,Vanessa Gomes,"Rua José de Alencar - 2101", ,Menino Deus
 (51) 99529-7873,Vanessa Dias,"Rua Auxiliadora - 1535",Apto 1645,Auxiliadora
-(51) 95290-3787,Pedro Dias,"Rua Eng. Teixeira Soares - 1372", , Bela Vista
+(51) 95290-3787,Pedro Dias,"Rua Eng. Teixeira Soares - 1372", ,Bela Vista
 (51) 96506-1267,Daniel Ribeiro,"Rua José de Alencar - 775",Apto 1387,Menino Deus
 (51) 97647-9716,Camila Costa,"Rua Carazinho - 2053",Apto 223,Petrópolis
 (51) 93909-3519,Patrícia Dias,"Rua Eça de Queiroz - 2198", ,Petrópolis
-(51) 98476-4165,João Santos,"Rua José de Alencar - 87", , Menino Deus
+(51) 98476-4165,João Santos,"Rua José de Alencar - 87", ,Menino Deus
 (51) 97887-1005,Lucas Carvalho,"Av. Protásio Alves - 445",Apto 1146,Petrópolis
-(51) 98097-1140,Pedro Oliveira,"Av. Protásio Alves - 2195", , Petrópolis
+(51) 98097-1140,Pedro Oliveira,"Av. Protásio Alves - 2195", ,Petrópolis
 (51) 96283-5301,Bruno Silva,"Rua Auxiliadora - 1936", ,Auxiliadora
 (51) 91389-3684,Aline Martins,"Rua Coronel Bordini - 1717", ,Auxiliadora
 (51) 91936-9498,Patrícia Oliveira,"Rua Carlos Trein Filho - 1587",Apto 400,Bela Vista
@@ -48,7 +49,7 @@
 (51) 96322-2356,Ana Pereira,"Rua José de Alencar - 844",Apto 469,Menino Deus
 (51) 91087-3663,Renata Santos,"Rua José de Alencar - 354", ,Menino Deus
 (51) 98048-4290,Patrícia Rocha,"Rua Padre Chagas - 1658", ,Moinhos de Vento
-(51) 93200-1674,Daniel Oliveira,"Rua Jaraguá - 1471",Bela Vista
+(51) 93200-1674,Daniel Oliveira,"Rua Jaraguá - 1471", ,Bela Vista
 (51) 96594-3343,Patrícia Carvalho,"Rua Jaraguá - 367",Apto 698,Bela Vista
 (51) 94750-1997,Bruno Martins,"Av. Protásio Alves - 238",Apto 326,Petrópolis
 (51) 91013-9898,Patrícia Santos,"Rua Carlos Trein Filho - 1079",Apto 1238,Bela Vista

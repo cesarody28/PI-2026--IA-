@@ -1,38 +1,25 @@
-
-# Abrir arquivo
-arquivo_clientes = open("cadastro_clientes_pizzaria.csv", "r", encoding="utf-8")
-
-# Excluir cabeçalho
-arquivo_clientes.readline()
-
-# Ler uma linha 
-registros = arquivo_clientes.readlines()
-
-
 bairros = {}
 
+with open("cadastro_clientes_pizzaria.csv", "r", encoding="utf-8") as arquivo_clientes:
 
-for um_registro in registros:
+    arquivo_clientes.readline()  # Ignora cabeçalho
 
-    dados_do_registro = um_registro.strip().split(",")
+    registros = arquivo_clientes.readlines()
 
-    telefone, nome, endereco, complemento, bairro = dados_do_registro
+    for um_registro in registros:
+        dados_do_registro = um_registro.strip().split(",")
+        telefone, nome, endereco, complemento, bairro = dados_do_registro
+        
+        if bairro in bairros:
+            bairros[bairro] += 1
+        else:
+            bairros[bairro] = 1
 
-
-    # Verifica se o bairro já existe no dicionário
-if bairro in bairros:
-        bairros[bairro] = bairros[bairro] + 1
-else:
-        bairros[bairro] = 1
-
-# Mostrar a distribuição por bairro
 print("Distribuição por bairro:")
 
-for bairro in bairros:
-    print(bairro, ":", bairros[bairro], "clientes")
+print (bairros)
 
+for bairro, quant in bairros.items():
+    print(f"{bairro}: {quant}", "clientes")
 
-# Mostrar bairros atendidos:
 print("Bairros atendidos:", len(bairros))
-
-arquivo_clientes.close()

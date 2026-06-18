@@ -15,23 +15,18 @@ moram_em_condominio = 0
 
 # Quebrar a linha nos campos
 for um_registro in registros:
-    
     # Quebrar a linha nos campos
     dados_do_registro = um_registro.strip().split(",")
-
-# Guardar cada dado em uma variável
+    # Guardar cada dado em uma variável
     telefone, nome, endereco, complemento, bairro = dados_do_registro 
+    # Contagem de clientes:
+    total_clientes += 1
 
-    
-   
-# Contagem de clientes:
-total_clientes += 1
-
-# Casa ou condomínio
-if complemento != "":
-        moram_em_condominio += 1
-else:
-        moram_em_casa += 1
+    # Casa ou condomínio
+    if complemento != " ":
+            moram_em_condominio += 1
+    else:
+            moram_em_casa += 1
 
 
 # Exibir Resultados:
